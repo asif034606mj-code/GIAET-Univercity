@@ -1,0 +1,6 @@
+{
+  "name": "Global Institute of Advanced Engineering & Technology",
+  "description": "World-class European online and hybrid engineering university delivering innovative BSc degrees, virtual laboratories, and industry partnerships from Stuttgart, Germany.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
